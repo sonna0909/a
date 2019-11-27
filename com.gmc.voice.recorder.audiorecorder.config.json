@@ -9,13 +9,13 @@
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"fan,admob",
-    "ad_sequence":"admob,admob,admob,admob,admob,admob,admob,admob,admob,admob",
+    "ad_networks":"fan,admob,mopub",
+    "ad_sequence":"mopub,admob,fan,mopub,admob,fan,mopub,admob,fan,admob",
     "deny_country": "",
     "admob":{
-        "app_id":{"flag":true, "value":"F75CCFAF8BADF1BA6B5EDC960E1FAF1E9B5C5A4AB851B4E20872A3DFAA276A8FFFBEA16C49E92BDF0663D5AC3179BA89"},
-        "banner":{"flag":true, "value":"F75CCFAF8BADF1BA6B5EDC960E1FAF1E1F84A84C9AC66CAF33F1DF052D28519A698CDC3C63EE2D45430874C9349A5D8D"},
-        "inters":{"flag":true, "value":"F75CCFAF8BADF1BA6B5EDC960E1FAF1E508FA5DDDB69DEBCAF6F6788D6953F0A57AE2BEADFE2E9B16095C75DF21E73A9"},
+        "app_id":{"flag":true, "value":"A34B396085712D35337E838A20257C8943C3392EAF0534E79C398D431A2D539B5B270BF315A34D1FA9A267E7D0957EB5"},
+        "banner":{"flag":true, "value":"A34B396085712D35337E838A20257C89925FB9D7925F96D24DBB7D6220F1574A1AAA35A9ABC07A56818CDC3F570E7F48"},
+        "inters":{"flag":true, "value":"A34B396085712D35337E838A20257C894B9323DA8B846BD8384A24F0FCC189C0E6275C8B74B7A62186C89C279B309E29"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
@@ -24,5 +24,8 @@
         "inters":{"flag":true, "value":"4BEED8FC9320C5891596B2D9FCD53360B48D2B5D748519896EC163E777EA453CEBDA5205D57E5A9B6DFDA8421D21872C"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
+    },
+    "mopub":{
+        "inters":{"flag":true, "value":"002CE9743AED83B8C6691BD98AE66219DC402C6DF2DFB9A2DBB69D0799F0AC78C5CCBEFDCED62F8DCA2288ADD77260BD"}
     }
 }
