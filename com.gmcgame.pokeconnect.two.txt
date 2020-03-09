@@ -1,1 +1,1 @@
-market://details?id=com.onemobi.forecast.weather
+market://details?id=com.gmcgame.pokeconnect.two
