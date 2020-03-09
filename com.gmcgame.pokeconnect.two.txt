@@ -1,1 +1,1 @@
-market://details?id=com.kodkod.cookinggames
+market://details?id=com.onemobi.forecast.weather
