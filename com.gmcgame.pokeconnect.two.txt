@@ -1,1 +1,1 @@
-market://details?id=com.gmcgame.pokeconnect.two
+#market://details?id=com.gmcgame.pokeconnect.two
